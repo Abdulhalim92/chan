@@ -1,0 +1,1 @@
+https://proglib.io/p/parallelizm-v-golang-i-workerpool-chast-2-2020-12-26
